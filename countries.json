@@ -1,0 +1,1752 @@
+[
+  {
+    "name": "Afghanistan",
+    "flag": "🇦🇫",
+    "code": "AF",
+    "dial_code": "+93",
+    "continent": "WA"
+  },
+  {
+    "name": "Åland Islands",
+    "flag": "🇦🇽",
+    "code": "AX",
+    "dial_code": "+358",
+    "continent": "EU"
+  },
+  {
+    "name": "Albania",
+    "flag": "🇦🇱",
+    "code": "AL",
+    "dial_code": "+355",
+    "continent": "EU"
+  },
+  {
+    "name": "Algeria",
+    "flag": "🇩🇿",
+    "code": "DZ",
+    "dial_code": "+213",
+    "continent": "AF"
+  },
+  {
+    "name": "American Samoa",
+    "flag": "🇦🇸",
+    "code": "AS",
+    "dial_code": "+1684",
+    "continent": "OC"
+  },
+  {
+    "name": "Andorra",
+    "flag": "🇦🇩",
+    "code": "AD",
+    "dial_code": "+376",
+    "continent": "EU"
+  },
+  {
+    "name": "Angola",
+    "flag": "🇦🇴",
+    "code": "AO",
+    "dial_code": "+244",
+    "continent": "AF"
+  },
+  {
+    "name": "Anguilla",
+    "flag": "🇦🇮",
+    "code": "AI",
+    "dial_code": "+1264",
+    "continent": "AM"
+  },
+  {
+    "name": "Antarctica",
+    "flag": "🇦🇶",
+    "code": "AQ",
+    "dial_code": "+672",
+    "continent": "AM"
+  },
+  {
+    "name": "Antigua & Barbuda",
+    "flag": "🇦🇬",
+    "code": "AG",
+    "dial_code": "+1268",
+    "continent": "AM"
+  },
+  {
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "code": "AR",
+    "dial_code": "+54",
+    "continent": "AM"
+  },
+  {
+    "name": "Armenia",
+    "flag": "🇦🇲",
+    "code": "AM",
+    "dial_code": "+374",
+    "continent": "WA"
+  },
+  {
+    "name": "Aruba",
+    "flag": "🇦🇼",
+    "code": "AW",
+    "dial_code": "+297",
+    "continent": "AM"
+  },
+  {
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "code": "AU",
+    "dial_code": "+61",
+    "continent": "OC"
+  },
+  {
+    "name": "Austria",
+    "flag": "🇦🇹",
+    "code": "AT",
+    "dial_code": "+43",
+    "continent": "EU"
+  },
+  {
+    "name": "Azerbaijan",
+    "flag": "🇦🇿",
+    "code": "AZ",
+    "dial_code": "+994",
+    "continent": "WA"
+  },
+  {
+    "name": "Bahamas",
+    "flag": "🇧🇸",
+    "code": "BS",
+    "dial_code": "+1242",
+    "continent": "AM"
+  },
+  {
+    "name": "Bahrain",
+    "flag": "🇧🇭",
+    "code": "BH",
+    "dial_code": "+973",
+    "continent": "WA"
+  },
+  {
+    "name": "Bangladesh",
+    "flag": "🇧🇩",
+    "code": "BD",
+    "dial_code": "+880",
+    "continent": "EA"
+  },
+  {
+    "name": "Barbados",
+    "flag": "🇧🇧",
+    "code": "BB",
+    "dial_code": "+1246",
+    "continent": "AM"
+  },
+  {
+    "name": "Belarus",
+    "flag": "🇧🇾",
+    "code": "BY",
+    "dial_code": "+375",
+    "continent": "EU"
+  },
+  {
+    "name": "Belgium",
+    "flag": "🇧🇪",
+    "code": "BE",
+    "dial_code": "+32",
+    "continent": "EU"
+  },
+  {
+    "name": "Belize",
+    "flag": "🇧🇿",
+    "code": "BZ",
+    "dial_code": "+501",
+    "continent": "AM"
+  },
+  {
+    "name": "Benin",
+    "flag": "🇧🇯",
+    "code": "BJ",
+    "dial_code": "+229",
+    "continent": "AF"
+  },
+  {
+    "name": "Bermuda",
+    "flag": "🇧🇲",
+    "code": "BM",
+    "dial_code": "+1441",
+    "continent": "AM"
+  },
+  {
+    "name": "Bhutan",
+    "flag": "🇧🇹",
+    "code": "BT",
+    "dial_code": "+975",
+    "continent": "EA"
+  },
+  {
+    "name": "Bolivia",
+    "flag": "🇧🇴",
+    "code": "BO",
+    "dial_code": "+591",
+    "continent": "AM"
+  },
+  {
+    "name": "Bosnia & Herzegovina",
+    "flag": "🇧🇦",
+    "code": "BA",
+    "dial_code": "+387",
+    "continent": "EU"
+  },
+  {
+    "name": "Botswana",
+    "flag": "🇧🇼",
+    "code": "BW",
+    "dial_code": "+267",
+    "continent": "AF"
+  },
+  {
+    "name": "Bouvet Island",
+    "flag": "🇧🇻",
+    "code": "BV",
+    "dial_code": "+47",
+    "continent": "AF"
+  },
+  {
+    "name": "Brazil",
+    "flag": "🇧🇷",
+    "code": "BR",
+    "dial_code": "+55",
+    "continent": "AM"
+  },
+  {
+    "name": "British Virgin Islands",
+    "flag": "🇻🇬",
+    "code": "VG",
+    "dial_code": "+1284",
+    "continent": "AM"
+  },
+  {
+    "name": "Brunei",
+    "flag": "🇧🇳",
+    "code": "BN",
+    "dial_code": "+673",
+    "continent": "EA"
+  },
+  {
+    "name": "Bulgaria",
+    "flag": "🇧🇬",
+    "code": "BG",
+    "dial_code": "+359",
+    "continent": "EU"
+  },
+  {
+    "name": "Burkina Faso",
+    "flag": "🇧🇫",
+    "code": "BF",
+    "dial_code": "+226",
+    "continent": "AF"
+  },
+  {
+    "name": "Burundi",
+    "flag": "🇧🇮",
+    "code": "BI",
+    "dial_code": "+257",
+    "continent": "AF"
+  },
+  {
+    "name": "Cambodia",
+    "flag": "🇰🇭",
+    "code": "KH",
+    "dial_code": "+855",
+    "continent": "EA"
+  },
+  {
+    "name": "Cameroon",
+    "flag": "🇨🇲",
+    "code": "CM",
+    "dial_code": "+237",
+    "continent": "AF"
+  },
+  {
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "code": "CA",
+    "dial_code": "+1",
+    "continent": "AM"
+  },
+  {
+    "name": "Cape Verde",
+    "flag": "🇨🇻",
+    "code": "CV",
+    "dial_code": "+238",
+    "continent": "AF"
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "flag": "🇧🇶",
+    "code": "BQ",
+    "dial_code": "+599",
+    "continent": "AM"
+  },
+  {
+    "name": "Cayman Islands",
+    "flag": "🇰🇾",
+    "code": "KY",
+    "dial_code": "+1345",
+    "continent": "AM"
+  },
+  {
+    "name": "Central African Republic",
+    "flag": "🇨🇫",
+    "code": "CF",
+    "dial_code": "+236",
+    "continent": "AF"
+  },
+  {
+    "name": "Chad",
+    "flag": "🇹🇩",
+    "code": "TD",
+    "dial_code": "+235",
+    "continent": "AF"
+  },
+  {
+    "name": "Chagos Archipelago",
+    "flag": "🇮🇴",
+    "code": "IO",
+    "dial_code": "+246",
+    "continent": "EA"
+  },
+  {
+    "name": "Chile",
+    "flag": "🇨🇱",
+    "code": "CL",
+    "dial_code": "+56",
+    "continent": "AM"
+  },
+  {
+    "name": "China",
+    "flag": "🇨🇳",
+    "code": "CN",
+    "dial_code": "+86",
+    "continent": "EA"
+  },
+  {
+    "name": "Christmas Island",
+    "flag": "🇨🇽",
+    "code": "CX",
+    "dial_code": "+61",
+    "continent": "OC"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "flag": "🇨🇨",
+    "code": "CC",
+    "dial_code": "+61",
+    "continent": "OC"
+  },
+  {
+    "name": "Colombia",
+    "flag": "🇨🇴",
+    "code": "CO",
+    "dial_code": "+57",
+    "continent": "AM"
+  },
+  {
+    "name": "Comoros",
+    "flag": "🇰🇲",
+    "code": "KM",
+    "dial_code": "+269",
+    "continent": "AF"
+  },
+  {
+    "name": "Congo - Brazzaville",
+    "flag": "🇨🇬",
+    "code": "CG",
+    "dial_code": "+242",
+    "continent": "AF"
+  },
+  {
+    "name": "Congo - Kinshasa",
+    "flag": "🇨🇩",
+    "code": "CD",
+    "dial_code": "+243",
+    "continent": "AF"
+  },
+  {
+    "name": "Cook Islands",
+    "flag": "🇨🇰",
+    "code": "CK",
+    "dial_code": "+682",
+    "continent": "OC"
+  },
+  {
+    "name": "Costa Rica",
+    "flag": "🇨🇷",
+    "code": "CR",
+    "dial_code": "+506",
+    "continent": "AM"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "flag": "🇨🇮",
+    "code": "CI",
+    "dial_code": "+225",
+    "continent": "AF"
+  },
+  {
+    "name": "Croatia",
+    "flag": "🇭🇷",
+    "code": "HR",
+    "dial_code": "+385",
+    "continent": "EU"
+  },
+  {
+    "name": "Cuba",
+    "flag": "🇨🇺",
+    "code": "CU",
+    "dial_code": "+53",
+    "continent": "AM"
+  },
+  {
+    "name": "Curaçao",
+    "flag": "🇨🇼",
+    "code": "CW",
+    "dial_code": "+599",
+    "continent": "AM"
+  },
+  {
+    "name": "Cyprus",
+    "flag": "🇨🇾",
+    "code": "CY",
+    "dial_code": "+357",
+    "continent": "WA"
+  },
+  {
+    "name": "Czech Republic",
+    "flag": "🇨🇿",
+    "code": "CZ",
+    "dial_code": "+420",
+    "continent": "EU"
+  },
+  {
+    "name": "Denmark",
+    "flag": "🇩🇰",
+    "code": "DK",
+    "dial_code": "+45",
+    "continent": "EU"
+  },
+  {
+    "name": "Djibouti",
+    "flag": "🇩🇯",
+    "code": "DJ",
+    "dial_code": "+253",
+    "continent": "AF"
+  },
+  {
+    "name": "Dominica",
+    "flag": "🇩🇲",
+    "code": "DM",
+    "dial_code": "+1767",
+    "continent": "AM"
+  },
+  {
+    "name": "Dominican Republic",
+    "flag": "🇩🇴",
+    "code": "DO",
+    "dial_code": "+1849",
+    "continent": "AM"
+  },
+  {
+    "name": "Ecuador",
+    "flag": "🇪🇨",
+    "code": "EC",
+    "dial_code": "+593",
+    "continent": "AM"
+  },
+  {
+    "name": "Egypt",
+    "flag": "🇪🇬",
+    "code": "EG",
+    "dial_code": "+20",
+    "continent": "AF"
+  },
+  {
+    "name": "El Salvador",
+    "flag": "🇸🇻",
+    "code": "SV",
+    "dial_code": "+503",
+    "continent": "AM"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "flag": "🇬🇶",
+    "code": "GQ",
+    "dial_code": "+240",
+    "continent": "AF"
+  },
+  {
+    "name": "Eritrea",
+    "flag": "🇪🇷",
+    "code": "ER",
+    "dial_code": "+291",
+    "continent": "AF"
+  },
+  {
+    "name": "Estonia",
+    "flag": "🇪🇪",
+    "code": "EE",
+    "dial_code": "+372",
+    "continent": "EU"
+  },
+  {
+    "name": "Eswatini",
+    "flag": "🇸🇿",
+    "code": "SZ",
+    "dial_code": "+268",
+    "continent": "AF"
+  },
+  {
+    "name": "Ethiopia",
+    "flag": "🇪🇹",
+    "code": "ET",
+    "dial_code": "+251",
+    "continent": "AF"
+  },
+  {
+    "name": "Falkland Islands (Malvinas)",
+    "flag": "🇫🇰",
+    "code": "FK",
+    "dial_code": "+500",
+    "continent": "AM"
+  },
+  {
+    "name": "Faroe Islands",
+    "flag": "🇫🇴",
+    "code": "FO",
+    "dial_code": "+298",
+    "continent": "EU"
+  },
+  {
+    "name": "Fiji",
+    "flag": "🇫🇯",
+    "code": "FJ",
+    "dial_code": "+679",
+    "continent": "OC"
+  },
+  {
+    "name": "Finland",
+    "flag": "🇫🇮",
+    "code": "FI",
+    "dial_code": "+358",
+    "continent": "EU"
+  },
+  {
+    "name": "France",
+    "flag": "🇫🇷",
+    "code": "FR",
+    "dial_code": "+33",
+    "continent": "EU"
+  },
+  {
+    "name": "French Guiana",
+    "flag": "🇬🇫",
+    "code": "GF",
+    "dial_code": "+594",
+    "continent": "AM"
+  },
+  {
+    "name": "French Polynesia",
+    "flag": "🇵🇫",
+    "code": "PF",
+    "dial_code": "+689",
+    "continent": "OC"
+  },
+  {
+    "name": "French Southern Territories",
+    "flag": "🇹🇫",
+    "code": "TF",
+    "dial_code": "+262",
+    "continent": "AF"
+  },
+  {
+    "name": "Gabon",
+    "flag": "🇬🇦",
+    "code": "GA",
+    "dial_code": "+241",
+    "continent": "AF"
+  },
+  {
+    "name": "Gambia",
+    "flag": "🇬🇲",
+    "code": "GM",
+    "dial_code": "+220",
+    "continent": "AF"
+  },
+  {
+    "name": "Georgia",
+    "flag": "🇬🇪",
+    "code": "GE",
+    "dial_code": "+995",
+    "continent": "WA"
+  },
+  {
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "code": "DE",
+    "dial_code": "+49",
+    "continent": "EU"
+  },
+  {
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "code": "GH",
+    "dial_code": "+233",
+    "continent": "AF"
+  },
+  {
+    "name": "Gibraltar",
+    "flag": "🇬🇮",
+    "code": "GI",
+    "dial_code": "+350",
+    "continent": "EU"
+  },
+  {
+    "name": "Greece",
+    "flag": "🇬🇷",
+    "code": "GR",
+    "dial_code": "+30",
+    "continent": "EU"
+  },
+  {
+    "name": "Greenland",
+    "flag": "🇬🇱",
+    "code": "GL",
+    "dial_code": "+299",
+    "continent": "AM"
+  },
+  {
+    "name": "Grenada",
+    "flag": "🇬🇩",
+    "code": "GD",
+    "dial_code": "+1473",
+    "continent": "AM"
+  },
+  {
+    "name": "Guadeloupe",
+    "flag": "🇬🇵",
+    "code": "GP",
+    "dial_code": "+590",
+    "continent": "AM"
+  },
+  {
+    "name": "Guam",
+    "flag": "🇬🇺",
+    "code": "GU",
+    "dial_code": "+1671",
+    "continent": "OC"
+  },
+  {
+    "name": "Guatemala",
+    "flag": "🇬🇹",
+    "code": "GT",
+    "dial_code": "+502",
+    "continent": "AM"
+  },
+  {
+    "name": "Guernsey",
+    "flag": "🇬🇬",
+    "code": "GG",
+    "dial_code": "+44",
+    "continent": "EU"
+  },
+  {
+    "name": "Guinea",
+    "flag": "🇬🇳",
+    "code": "GN",
+    "dial_code": "+224",
+    "continent": "AF"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "flag": "🇬🇼",
+    "code": "GW",
+    "dial_code": "+245",
+    "continent": "AF"
+  },
+  {
+    "name": "Guyana",
+    "flag": "🇬🇾",
+    "code": "GY",
+    "dial_code": "+592",
+    "continent": "AM"
+  },
+  {
+    "name": "Haiti",
+    "flag": "🇭🇹",
+    "code": "HT",
+    "dial_code": "+509",
+    "continent": "AM"
+  },
+  {
+    "name": "Heard Island & Mcdonald Islands",
+    "flag": "🇭🇲",
+    "code": "HM",
+    "dial_code": "+672",
+    "continent": "OC"
+  },
+  {
+    "name": "Honduras",
+    "flag": "🇭🇳",
+    "code": "HN",
+    "dial_code": "+504",
+    "continent": "AM"
+  },
+  {
+    "name": "Hong Kong",
+    "flag": "🇭🇰",
+    "code": "HK",
+    "dial_code": "+852",
+    "continent": "EA"
+  },
+  {
+    "name": "Hungary",
+    "flag": "🇭🇺",
+    "code": "HU",
+    "dial_code": "+36",
+    "continent": "EU"
+  },
+  {
+    "name": "Iceland",
+    "flag": "🇮🇸",
+    "code": "IS",
+    "dial_code": "+354",
+    "continent": "EU"
+  },
+  {
+    "name": "India",
+    "flag": "🇮🇳",
+    "code": "IN",
+    "dial_code": "+91",
+    "continent": "EA"
+  },
+  {
+    "name": "Indonesia",
+    "flag": "🇮🇩",
+    "code": "ID",
+    "dial_code": "+62",
+    "continent": "EA"
+  },
+  {
+    "name": "Iran",
+    "flag": "🇮🇷",
+    "code": "IR",
+    "dial_code": "+98",
+    "continent": "WA"
+  },
+  {
+    "name": "Iraq",
+    "flag": "🇮🇶",
+    "code": "IQ",
+    "dial_code": "+964",
+    "continent": "WA"
+  },
+  {
+    "name": "Ireland",
+    "flag": "🇮🇪",
+    "code": "IE",
+    "dial_code": "+353",
+    "continent": "EU"
+  },
+  {
+    "name": "Isle of Man",
+    "flag": "🇮🇲",
+    "code": "IM",
+    "dial_code": "+44",
+    "continent": "EU"
+  },
+  {
+    "name": "Israel",
+    "flag": "🇮🇱",
+    "code": "IL",
+    "dial_code": "+972",
+    "continent": "WA"
+  },
+  {
+    "name": "Italy",
+    "flag": "🇮🇹",
+    "code": "IT",
+    "dial_code": "+39",
+    "continent": "EU"
+  },
+  {
+    "name": "Jamaica",
+    "flag": "🇯🇲",
+    "code": "JM",
+    "dial_code": "+1876",
+    "continent": "AM"
+  },
+  {
+    "name": "Japan",
+    "flag": "🇯🇵",
+    "code": "JP",
+    "dial_code": "+81",
+    "continent": "EA"
+  },
+  {
+    "name": "Jersey",
+    "flag": "🇯🇪",
+    "code": "JE",
+    "dial_code": "+44",
+    "continent": "EU"
+  },
+  {
+    "name": "Jordan",
+    "flag": "🇯🇴",
+    "code": "JO",
+    "dial_code": "+962",
+    "continent": "WA"
+  },
+  {
+    "name": "Kazakhstan",
+    "flag": "🇰🇿",
+    "code": "KZ",
+    "dial_code": "+7",
+    "continent": "WA"
+  },
+  {
+    "name": "Kenya",
+    "flag": "🇰🇪",
+    "code": "KE",
+    "dial_code": "+254",
+    "continent": "AF"
+  },
+  {
+    "name": "Kiribati",
+    "flag": "🇰🇮",
+    "code": "KI",
+    "dial_code": "+686",
+    "continent": "OC"
+  },
+  {
+    "name": "Kosovo",
+    "flag": "🇽🇰",
+    "code": "XK",
+    "dial_code": "+383",
+    "continent": "EU"
+  },
+  {
+    "name": "Kuwait",
+    "flag": "🇰🇼",
+    "code": "KW",
+    "dial_code": "+965",
+    "continent": "WA"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "flag": "🇰🇬",
+    "code": "KG",
+    "dial_code": "+996",
+    "continent": "WA"
+  },
+  {
+    "name": "Laos",
+    "flag": "🇱🇦",
+    "code": "LA",
+    "dial_code": "+856",
+    "continent": "EA"
+  },
+  {
+    "name": "Latvia",
+    "flag": "🇱🇻",
+    "code": "LV",
+    "dial_code": "+371",
+    "continent": "EU"
+  },
+  {
+    "name": "Lebanon",
+    "flag": "🇱🇧",
+    "code": "LB",
+    "dial_code": "+961",
+    "continent": "WA"
+  },
+  {
+    "name": "Lesotho",
+    "flag": "🇱🇸",
+    "code": "LS",
+    "dial_code": "+266",
+    "continent": "AF"
+  },
+  {
+    "name": "Liberia",
+    "flag": "🇱🇷",
+    "code": "LR",
+    "dial_code": "+231",
+    "continent": "AF"
+  },
+  {
+    "name": "Libya",
+    "flag": "🇱🇾",
+    "code": "LY",
+    "dial_code": "+218",
+    "continent": "AF"
+  },
+  {
+    "name": "Liechtenstein",
+    "flag": "🇱🇮",
+    "code": "LI",
+    "dial_code": "+423",
+    "continent": "EU"
+  },
+  {
+    "name": "Lithuania",
+    "flag": "🇱🇹",
+    "code": "LT",
+    "dial_code": "+370",
+    "continent": "EU"
+  },
+  {
+    "name": "Luxembourg",
+    "flag": "🇱🇺",
+    "code": "LU",
+    "dial_code": "+352",
+    "continent": "EU"
+  },
+  {
+    "name": "Macao",
+    "flag": "🇲🇴",
+    "code": "MO",
+    "dial_code": "+853",
+    "continent": "EA"
+  },
+  {
+    "name": "Madagascar",
+    "flag": "🇲🇬",
+    "code": "MG",
+    "dial_code": "+261",
+    "continent": "AF"
+  },
+  {
+    "name": "Malawi",
+    "flag": "🇲🇼",
+    "code": "MW",
+    "dial_code": "+265",
+    "continent": "AF"
+  },
+  {
+    "name": "Malaysia",
+    "flag": "🇲🇾",
+    "code": "MY",
+    "dial_code": "+60",
+    "continent": "EA"
+  },
+  {
+    "name": "Maldives",
+    "flag": "🇲🇻",
+    "code": "MV",
+    "dial_code": "+960",
+    "continent": "EA"
+  },
+  {
+    "name": "Mali",
+    "flag": "🇲🇱",
+    "code": "ML",
+    "dial_code": "+223",
+    "continent": "AF"
+  },
+  {
+    "name": "Malta",
+    "flag": "🇲🇹",
+    "code": "MT",
+    "dial_code": "+356",
+    "continent": "EU"
+  },
+  {
+    "name": "Marshall Islands",
+    "flag": "🇲🇭",
+    "code": "MH",
+    "dial_code": "+692",
+    "continent": "OC"
+  },
+  {
+    "name": "Martinique",
+    "flag": "🇲🇶",
+    "code": "MQ",
+    "dial_code": "+596",
+    "continent": "AM"
+  },
+  {
+    "name": "Mauritania",
+    "flag": "🇲🇷",
+    "code": "MR",
+    "dial_code": "+222",
+    "continent": "AF"
+  },
+  {
+    "name": "Mauritius",
+    "flag": "🇲🇺",
+    "code": "MU",
+    "dial_code": "+230",
+    "continent": "AF"
+  },
+  {
+    "name": "Mayotte",
+    "flag": "🇾🇹",
+    "code": "YT",
+    "dial_code": "+262",
+    "continent": "AF"
+  },
+  {
+    "name": "Mexico",
+    "flag": "🇲🇽",
+    "code": "MX",
+    "dial_code": "+52",
+    "continent": "AM"
+  },
+  {
+    "name": "Micronesia",
+    "flag": "🇫🇲",
+    "code": "FM",
+    "dial_code": "+691",
+    "continent": "OC"
+  },
+  {
+    "name": "Moldova",
+    "flag": "🇲🇩",
+    "code": "MD",
+    "dial_code": "+373",
+    "continent": "EU"
+  },
+  {
+    "name": "Monaco",
+    "flag": "🇲🇨",
+    "code": "MC",
+    "dial_code": "+377",
+    "continent": "EU"
+  },
+  {
+    "name": "Mongolia",
+    "flag": "🇲🇳",
+    "code": "MN",
+    "dial_code": "+976",
+    "continent": "EA"
+  },
+  {
+    "name": "Montenegro",
+    "flag": "🇲🇪",
+    "code": "ME",
+    "dial_code": "+382",
+    "continent": "EU"
+  },
+  {
+    "name": "Montserrat",
+    "flag": "🇲🇸",
+    "code": "MS",
+    "dial_code": "+1664",
+    "continent": "AM"
+  },
+  {
+    "name": "Morocco",
+    "flag": "🇲🇦",
+    "code": "MA",
+    "dial_code": "+212",
+    "continent": "AF"
+  },
+  {
+    "name": "Mozambique",
+    "flag": "🇲🇿",
+    "code": "MZ",
+    "dial_code": "+258",
+    "continent": "AF"
+  },
+  {
+    "name": "Myanmar",
+    "flag": "🇲🇲",
+    "code": "MM",
+    "dial_code": "+95",
+    "continent": "EA"
+  },
+  {
+    "name": "Namibia",
+    "flag": "🇳🇦",
+    "code": "NA",
+    "dial_code": "+264",
+    "continent": "AF"
+  },
+  {
+    "name": "Nauru",
+    "flag": "🇳🇷",
+    "code": "NR",
+    "dial_code": "+674",
+    "continent": "OC"
+  },
+  {
+    "name": "Nepal",
+    "flag": "🇳🇵",
+    "code": "NP",
+    "dial_code": "+977",
+    "continent": "EA"
+  },
+  {
+    "name": "Netherlands",
+    "flag": "🇳🇱",
+    "code": "NL",
+    "dial_code": "+31",
+    "continent": "EU"
+  },
+  {
+    "name": "New Caledonia",
+    "flag": "🇳🇨",
+    "code": "NC",
+    "dial_code": "+687",
+    "continent": "OC"
+  },
+  {
+    "name": "New Zealand",
+    "flag": "🇳🇿",
+    "code": "NZ",
+    "dial_code": "+64",
+    "continent": "OC"
+  },
+  {
+    "name": "Nicaragua",
+    "flag": "🇳🇮",
+    "code": "NI",
+    "dial_code": "+505",
+    "continent": "AM"
+  },
+  {
+    "name": "Niger",
+    "flag": "🇳🇪",
+    "code": "NE",
+    "dial_code": "+227",
+    "continent": "AF"
+  },
+  {
+    "name": "Nigeria",
+    "flag": "🇳🇬",
+    "code": "NG",
+    "dial_code": "+234",
+    "continent": "AF"
+  },
+  {
+    "name": "Niue",
+    "flag": "🇳🇺",
+    "code": "NU",
+    "dial_code": "+683",
+    "continent": "OC"
+  },
+  {
+    "name": "Norfolk Island",
+    "flag": "🇳🇫",
+    "code": "NF",
+    "dial_code": "+672",
+    "continent": "OC"
+  },
+  {
+    "name": "North Korea",
+    "flag": "🇰🇵",
+    "code": "KP",
+    "dial_code": "+850",
+    "continent": "EA"
+  },
+  {
+    "name": "North Macedonia",
+    "flag": "🇲🇰",
+    "code": "MK",
+    "dial_code": "+389",
+    "continent": "EU"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "flag": "🇲🇵",
+    "code": "MP",
+    "dial_code": "+1670",
+    "continent": "OC"
+  },
+  {
+    "name": "Norway",
+    "flag": "🇳🇴",
+    "code": "NO",
+    "dial_code": "+47",
+    "continent": "EU"
+  },
+  {
+    "name": "Oman",
+    "flag": "🇴🇲",
+    "code": "OM",
+    "dial_code": "+968",
+    "continent": "WA"
+  },
+  {
+    "name": "Pakistan",
+    "flag": "🇵🇰",
+    "code": "PK",
+    "dial_code": "+92",
+    "continent": "EA"
+  },
+  {
+    "name": "Palau",
+    "flag": "🇵🇼",
+    "code": "PW",
+    "dial_code": "+680",
+    "continent": "OC"
+  },
+  {
+    "name": "Palestine",
+    "flag": "🇵🇸",
+    "code": "PS",
+    "dial_code": "+970",
+    "continent": "WA"
+  },
+  {
+    "name": "Panama",
+    "flag": "🇵🇦",
+    "code": "PA",
+    "dial_code": "+507",
+    "continent": "AM"
+  },
+  {
+    "name": "Papua New Guinea",
+    "flag": "🇵🇬",
+    "code": "PG",
+    "dial_code": "+675",
+    "continent": "OC"
+  },
+  {
+    "name": "Paraguay",
+    "flag": "🇵🇾",
+    "code": "PY",
+    "dial_code": "+595",
+    "continent": "AM"
+  },
+  {
+    "name": "Peru",
+    "flag": "🇵🇪",
+    "code": "PE",
+    "dial_code": "+51",
+    "continent": "AM"
+  },
+  {
+    "name": "Philippines",
+    "flag": "🇵🇭",
+    "code": "PH",
+    "dial_code": "+63",
+    "continent": "EA"
+  },
+  {
+    "name": "Pitcairn Islands",
+    "flag": "🇵🇳",
+    "code": "PN",
+    "dial_code": "+64",
+    "continent": "OC"
+  },
+  {
+    "name": "Poland",
+    "flag": "🇵🇱",
+    "code": "PL",
+    "dial_code": "+48",
+    "continent": "EU"
+  },
+  {
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "code": "PT",
+    "dial_code": "+351",
+    "continent": "EU"
+  },
+  {
+    "name": "Puerto Rico",
+    "flag": "🇵🇷",
+    "code": "PR",
+    "dial_code": "+1939",
+    "continent": "AM"
+  },
+  {
+    "name": "Qatar",
+    "flag": "🇶🇦",
+    "code": "QA",
+    "dial_code": "+974",
+    "continent": "WA"
+  },
+  {
+    "name": "Réunion",
+    "flag": "🇷🇪",
+    "code": "RE",
+    "dial_code": "+262",
+    "continent": "AF"
+  },
+  {
+    "name": "Romania",
+    "flag": "🇷🇴",
+    "code": "RO",
+    "dial_code": "+40",
+    "continent": "EU"
+  },
+  {
+    "name": "Russia",
+    "flag": "🇷🇺",
+    "code": "RU",
+    "dial_code": "+7",
+    "continent": "EU"
+  },
+  {
+    "name": "Rwanda",
+    "flag": "🇷🇼",
+    "code": "RW",
+    "dial_code": "+250",
+    "continent": "AF"
+  },
+  {
+    "name": "Samoa",
+    "flag": "🇼🇸",
+    "code": "WS",
+    "dial_code": "+685",
+    "continent": "OC"
+  },
+  {
+    "name": "San Marino",
+    "flag": "🇸🇲",
+    "code": "SM",
+    "dial_code": "+378",
+    "continent": "EU"
+  },
+  {
+    "name": "São Tomé & Príncipe",
+    "flag": "🇸🇹",
+    "code": "ST",
+    "dial_code": "+239",
+    "continent": "AF"
+  },
+  {
+    "name": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "code": "SA",
+    "dial_code": "+966",
+    "continent": "WA"
+  },
+  {
+    "name": "Senegal",
+    "flag": "🇸🇳",
+    "code": "SN",
+    "dial_code": "+221",
+    "continent": "AF"
+  },
+  {
+    "name": "Serbia",
+    "flag": "🇷🇸",
+    "code": "RS",
+    "dial_code": "+381",
+    "continent": "EU"
+  },
+  {
+    "name": "Seychelles",
+    "flag": "🇸🇨",
+    "code": "SC",
+    "dial_code": "+248",
+    "continent": "AF"
+  },
+  {
+    "name": "Sierra Leone",
+    "flag": "🇸🇱",
+    "code": "SL",
+    "dial_code": "+232",
+    "continent": "AF"
+  },
+  {
+    "name": "Singapore",
+    "flag": "🇸🇬",
+    "code": "SG",
+    "dial_code": "+65",
+    "continent": "EA"
+  },
+  {
+    "name": "Sint Maarten",
+    "flag": "🇸🇽",
+    "code": "SX",
+    "dial_code": "+1721",
+    "continent": "AM"
+  },
+  {
+    "name": "Slovakia",
+    "flag": "🇸🇰",
+    "code": "SK",
+    "dial_code": "+421",
+    "continent": "EU"
+  },
+  {
+    "name": "Slovenia",
+    "flag": "🇸🇮",
+    "code": "SI",
+    "dial_code": "+386",
+    "continent": "EU"
+  },
+  {
+    "name": "Solomon Islands",
+    "flag": "🇸🇧",
+    "code": "SB",
+    "dial_code": "+677",
+    "continent": "OC"
+  },
+  {
+    "name": "Somalia",
+    "flag": "🇸🇴",
+    "code": "SO",
+    "dial_code": "+252",
+    "continent": "AF"
+  },
+  {
+    "name": "South Africa",
+    "flag": "🇿🇦",
+    "code": "ZA",
+    "dial_code": "+27",
+    "continent": "AF"
+  },
+  {
+    "name": "South Georgia & the South Sandwich Islands",
+    "flag": "🇬🇸",
+    "code": "GS",
+    "dial_code": "+500",
+    "continent": "AM"
+  },
+  {
+    "name": "South Korea",
+    "flag": "🇰🇷",
+    "code": "KR",
+    "dial_code": "+82",
+    "continent": "EA"
+  },
+  {
+    "name": "South Sudan",
+    "flag": "🇸🇸",
+    "code": "SS",
+    "dial_code": "+211",
+    "continent": "AF"
+  },
+  {
+    "name": "Spain",
+    "flag": "🇪🇸",
+    "code": "ES",
+    "dial_code": "+34",
+    "continent": "EU"
+  },
+  {
+    "name": "Sri Lanka",
+    "flag": "🇱🇰",
+    "code": "LK",
+    "dial_code": "+94",
+    "continent": "EA"
+  },
+  {
+    "name": "St. Barthélemy",
+    "flag": "🇧🇱",
+    "code": "BL",
+    "dial_code": "+590",
+    "continent": "AM"
+  },
+  {
+    "name": "St. Helena, Ascension & Tristan Da Cunha",
+    "flag": "🇸🇭",
+    "code": "SH",
+    "dial_code": "+290",
+    "continent": "AF"
+  },
+  {
+    "name": "St. Kitts & Nevis",
+    "flag": "🇰🇳",
+    "code": "KN",
+    "dial_code": "+1869",
+    "continent": "AM"
+  },
+  {
+    "name": "St. Lucia",
+    "flag": "🇱🇨",
+    "code": "LC",
+    "dial_code": "+1758",
+    "continent": "AM"
+  },
+  {
+    "name": "St. Martin",
+    "flag": "🇲🇫",
+    "code": "MF",
+    "dial_code": "+590",
+    "continent": "AM"
+  },
+  {
+    "name": "St. Pierre & Miquelon",
+    "flag": "🇵🇲",
+    "code": "PM",
+    "dial_code": "+508",
+    "continent": "AM"
+  },
+  {
+    "name": "St. Vincent & the Grenadines",
+    "flag": "🇻🇨",
+    "code": "VC",
+    "dial_code": "+1784",
+    "continent": "AM"
+  },
+  {
+    "name": "Sudan",
+    "flag": "🇸🇩",
+    "code": "SD",
+    "dial_code": "+249",
+    "continent": "AF"
+  },
+  {
+    "name": "Suriname",
+    "flag": "🇸🇷",
+    "code": "SR",
+    "dial_code": "+597",
+    "continent": "AM"
+  },
+  {
+    "name": "Svalbard & Jan Mayen",
+    "flag": "🇸🇯",
+    "code": "SJ",
+    "dial_code": "+47",
+    "continent": "EU"
+  },
+  {
+    "name": "Sweden",
+    "flag": "🇸🇪",
+    "code": "SE",
+    "dial_code": "+46",
+    "continent": "EU"
+  },
+  {
+    "name": "Switzerland",
+    "flag": "🇨🇭",
+    "code": "CH",
+    "dial_code": "+41",
+    "continent": "EU"
+  },
+  {
+    "name": "Syria",
+    "flag": "🇸🇾",
+    "code": "SY",
+    "dial_code": "+963",
+    "continent": "WA"
+  },
+  {
+    "name": "Taiwan",
+    "flag": "🇹🇼",
+    "code": "TW",
+    "dial_code": "+886",
+    "continent": "EA"
+  },
+  {
+    "name": "Tajikistan",
+    "flag": "🇹🇯",
+    "code": "TJ",
+    "dial_code": "+992",
+    "continent": "WA"
+  },
+  {
+    "name": "Tanzania",
+    "flag": "🇹🇿",
+    "code": "TZ",
+    "dial_code": "+255",
+    "continent": "AF"
+  },
+  {
+    "name": "Thailand",
+    "flag": "🇹🇭",
+    "code": "TH",
+    "dial_code": "+66",
+    "continent": "EA"
+  },
+  {
+    "name": "Timor-Leste",
+    "flag": "🇹🇱",
+    "code": "TL",
+    "dial_code": "+670",
+    "continent": "EA"
+  },
+  {
+    "name": "Togo",
+    "flag": "🇹🇬",
+    "code": "TG",
+    "dial_code": "+228",
+    "continent": "AF"
+  },
+  {
+    "name": "Tokelau",
+    "flag": "🇹🇰",
+    "code": "TK",
+    "dial_code": "+690",
+    "continent": "OC"
+  },
+  {
+    "name": "Tonga",
+    "flag": "🇹🇴",
+    "code": "TO",
+    "dial_code": "+676",
+    "continent": "OC"
+  },
+  {
+    "name": "Trinidad & Tobago",
+    "flag": "🇹🇹",
+    "code": "TT",
+    "dial_code": "+1868",
+    "continent": "AM"
+  },
+  {
+    "name": "Tunisia",
+    "flag": "🇹🇳",
+    "code": "TN",
+    "dial_code": "+216",
+    "continent": "AF"
+  },
+  {
+    "name": "Türkiye",
+    "flag": "🇹🇷",
+    "code": "TR",
+    "dial_code": "+90",
+    "continent": "WA"
+  },
+  {
+    "name": "Turkmenistan",
+    "flag": "🇹🇲",
+    "code": "TM",
+    "dial_code": "+993",
+    "continent": "WA"
+  },
+  {
+    "name": "Turks & Caicos Islands",
+    "flag": "🇹🇨",
+    "code": "TC",
+    "dial_code": "+1649",
+    "continent": "AM"
+  },
+  {
+    "name": "Tuvalu",
+    "flag": "🇹🇻",
+    "code": "TV",
+    "dial_code": "+688",
+    "continent": "OC"
+  },
+  {
+    "name": "Uganda",
+    "flag": "🇺🇬",
+    "code": "UG",
+    "dial_code": "+256",
+    "continent": "AF"
+  },
+  {
+    "name": "Ukraine",
+    "flag": "🇺🇦",
+    "code": "UA",
+    "dial_code": "+380",
+    "continent": "EU"
+  },
+  {
+    "name": "United Arab Emirates",
+    "flag": "🇦🇪",
+    "code": "AE",
+    "dial_code": "+971",
+    "continent": "WA"
+  },
+  {
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "code": "GB",
+    "dial_code": "+44",
+    "continent": "EU"
+  },
+  {
+    "name": "United States",
+    "flag": "🇺🇸",
+    "code": "US",
+    "dial_code": "+1",
+    "continent": "AM"
+  },
+  {
+    "name": "Uruguay",
+    "flag": "🇺🇾",
+    "code": "UY",
+    "dial_code": "+598",
+    "continent": "AM"
+  },
+  {
+    "name": "US Outlying Islands",
+    "flag": "🇺🇲",
+    "code": "UM",
+    "dial_code": "+1",
+    "continent": "OC"
+  },
+  {
+    "name": "US Virgin Islands",
+    "flag": "🇻🇮",
+    "code": "VI",
+    "dial_code": "+1340",
+    "continent": "AM"
+  },
+  {
+    "name": "Uzbekistan",
+    "flag": "🇺🇿",
+    "code": "UZ",
+    "dial_code": "+998",
+    "continent": "WA"
+  },
+  {
+    "name": "Vanuatu",
+    "flag": "🇻🇺",
+    "code": "VU",
+    "dial_code": "+678",
+    "continent": "OC"
+  },
+  {
+    "name": "Vatican City",
+    "flag": "🇻🇦",
+    "code": "VA",
+    "dial_code": "+379",
+    "continent": "EU"
+  },
+  {
+    "name": "Venezuela",
+    "flag": "🇻🇪",
+    "code": "VE",
+    "dial_code": "+58",
+    "continent": "AM"
+  },
+  {
+    "name": "Vietnam",
+    "flag": "🇻🇳",
+    "code": "VN",
+    "dial_code": "+84",
+    "continent": "EA"
+  },
+  {
+    "name": "Wallis & Futuna",
+    "flag": "🇼🇫",
+    "code": "WF",
+    "dial_code": "+681",
+    "continent": "OC"
+  },
+  {
+    "name": "Western Sahara",
+    "flag": "🇪🇭",
+    "code": "EH",
+    "dial_code": "+212",
+    "continent": "AF"
+  },
+  {
+    "name": "Yemen",
+    "flag": "🇾🇪",
+    "code": "YE",
+    "dial_code": "+967",
+    "continent": "WA"
+  },
+  {
+    "name": "Zambia",
+    "flag": "🇿🇲",
+    "code": "ZM",
+    "dial_code": "+260",
+    "continent": "AF"
+  },
+  {
+    "name": "Zimbabwe",
+    "flag": "🇿🇼",
+    "code": "ZW",
+    "dial_code": "+263",
+    "continent": "AF"
+  }
+]
