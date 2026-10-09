@@ -83,3 +83,7 @@ Some entries use a different name from their ISO name:
 ## Dial codes
 
 Places that share the `+1` dial code with the US and Canada have their area code added to `dial_code`, e.g. `+1684` for American Samoa and `+1876` for Jamaica. Places with more than one area code list only one: the Dominican Republic is `+1849` (it also uses 809 and 829), Puerto Rico is `+1939` (also 787) and Jamaica is `+1876` (also 658).
+
+## License
+
+[MIT](LICENSE)
