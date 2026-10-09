@@ -1,12 +1,13 @@
 # countries
 
-`countries.json` is a list of 250 countries and territories with their flag emoji, country code, dial code and continent.
+`countries.json` is a list of 250 countries and territories with their native name, flag emoji, country code, dial code and continent.
 
 This is the file I use on my own projects, including [LetterMe](https://letterme.app) and [Sedcst](https://sedcst.com). The list has some political bias, so feel free to update it to match your own views. See [Coverage](#coverage) and [Naming](#naming) for which territories are and aren't included and how they're named.
 
 | Field          | Example   | Description                  |
 | -------------- | --------- | ---------------------------- |
 | `name`         | `"Spain"` | Common English name          |
+| `native_name`  | `"España"` | Name in the main local language |
 | `flag`         | `"🇪🇸"`    | Flag emoji                   |
 | `country_code` | `"ES"`    | ISO 3166-1 alpha-2 code      |
 | `dial_code`    | `"+34"`   | International dialing prefix |
@@ -55,7 +56,9 @@ Names are the common English short names, not official long names:
 - `St.` for "Saint": `St. Lucia`, `St. Kitts & Nevis`
 - `&` instead of "and": `Antigua & Barbuda`, `Bosnia & Herzegovina`
 - The two Congos are named by capital: `Congo - Brazzaville` (`CG`), `Congo - Kinshasa` (`CD`)
-- Current names: `Türkiye`, `Eswatini`, `North Macedonia`, `Cabo Verde`, `Myanmar`, `Czech Republic` (not `Czechia`)
+- New names: `Eswatini` (formerly Swaziland), `North Macedonia` (formerly Macedonia), `Myanmar` (formerly Burma)
+- Official names, not English translations: `Türkiye`, `Cabo Verde`, `Côte d'Ivoire`
+- `Czech Republic` (not `Czechia`)
 
 Some entries use a different name from their ISO name:
 
@@ -67,6 +70,8 @@ Some entries use a different name from their ISO name:
 | Pitcairn Islands      | Pitcairn                             | `PN` |
 | Micronesia            | Micronesia, Federated States of      | `FM` |
 | US Outlying Islands   | United States Minor Outlying Islands | `UM` |
+
+`native_name` is the country's name in its official or most widely spoken language, based on [Unicode CLDR](https://cldr.unicode.org). Countries with several official languages have just one native name, e.g. `België` for Belgium and `Schweiz` for Switzerland.
 
 ## Dial codes
 
