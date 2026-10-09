@@ -8,8 +8,8 @@ This is the file I use on my own projects, including [LetterMe](https://letterme
 | -------------- | --------- | ---------------------------- |
 | `name`         | `"Spain"` | Common English name          |
 | `native_name`  | `"España"` | Name in the main local language |
-| `flag`         | `"🇪🇸"`    | Flag emoji                   |
 | `country_code` | `"ES"`    | ISO 3166-1 alpha-2 code      |
+| `flag`         | `"🇪🇸"`    | Flag emoji                   |
 | `dial_code`    | `"+34"`   | International dialing prefix |
 | `continent`    | `"EU"`    | Continent code (see below)   |
 
