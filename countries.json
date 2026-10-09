@@ -33,7 +33,7 @@
   },
   {
     "name": "American Samoa",
-    "native_name": "American Samoa",
+    "native_name": "Amerika Sāmoa",
     "flag": "🇦🇸",
     "country_code": "AS",
     "dial_code": "+1684",
@@ -425,7 +425,7 @@
   },
   {
     "name": "Cook Islands",
-    "native_name": "Cook Islands",
+    "native_name": "Kūki 'Āirani",
     "flag": "🇨🇰",
     "country_code": "CK",
     "dial_code": "+682",
@@ -569,7 +569,7 @@
   },
   {
     "name": "Eswatini",
-    "native_name": "Eswatini",
+    "native_name": "eSwatini",
     "flag": "🇸🇿",
     "country_code": "SZ",
     "dial_code": "+268",
@@ -601,7 +601,7 @@
   },
   {
     "name": "Fiji",
-    "native_name": "Fiji",
+    "native_name": "Viti",
     "flag": "🇫🇯",
     "country_code": "FJ",
     "dial_code": "+679",
@@ -729,7 +729,7 @@
   },
   {
     "name": "Guam",
-    "native_name": "Guam",
+    "native_name": "Guåhån",
     "flag": "🇬🇺",
     "country_code": "GU",
     "dial_code": "+1671",
@@ -857,7 +857,7 @@
   },
   {
     "name": "Ireland",
-    "native_name": "Ireland",
+    "native_name": "Éire",
     "flag": "🇮🇪",
     "country_code": "IE",
     "dial_code": "+353",
@@ -1097,7 +1097,7 @@
   },
   {
     "name": "Marshall Islands",
-    "native_name": "Marshall Islands",
+    "native_name": "Aorōkin M̧ajeļ",
     "flag": "🇲🇭",
     "country_code": "MH",
     "dial_code": "+692",
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "Nauru",
-    "native_name": "Nauru",
+    "native_name": "Naoero",
     "flag": "🇳🇷",
     "country_code": "NR",
     "dial_code": "+674",
@@ -1257,7 +1257,7 @@
   },
   {
     "name": "New Zealand",
-    "native_name": "New Zealand",
+    "native_name": "Aotearoa",
     "flag": "🇳🇿",
     "country_code": "NZ",
     "dial_code": "+64",
@@ -1529,7 +1529,7 @@
   },
   {
     "name": "Seychelles",
-    "native_name": "Seychelles",
+    "native_name": "Sesel",
     "flag": "🇸🇨",
     "country_code": "SC",
     "dial_code": "+248",
@@ -1545,7 +1545,7 @@
   },
   {
     "name": "Singapore",
-    "native_name": "Singapore",
+    "native_name": "Singapura",
     "flag": "🇸🇬",
     "country_code": "SG",
     "dial_code": "+65",
