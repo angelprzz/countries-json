@@ -56,9 +56,8 @@ Names are the common English short names, not official long names:
 - `St.` for "Saint": `St. Lucia`, `St. Kitts & Nevis`
 - `&` instead of "and": `Antigua & Barbuda`, `Bosnia & Herzegovina`
 - The two Congos are named by capital: `Congo - Brazzaville` (`CG`), `Congo - Kinshasa` (`CD`)
-- New names: `Eswatini` (formerly Swaziland), `North Macedonia` (formerly Macedonia), `Myanmar` (formerly Burma)
+- New names: `Czechia` (formerly Czech Republic), `Eswatini` (formerly Swaziland), `North Macedonia` (formerly Macedonia), `Myanmar` (formerly Burma)
 - Official names, not English translations: `Türkiye`, `Cabo Verde`, `Côte d'Ivoire`
-- `Czech Republic` (not `Czechia`)
 
 Some entries use a different name from their ISO name:
 
