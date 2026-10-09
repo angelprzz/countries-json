@@ -252,6 +252,13 @@
     "continent": "AF"
   },
   {
+    "name": "Cabo Verde",
+    "flag": "🇨🇻",
+    "country_code": "CV",
+    "dial_code": "+238",
+    "continent": "AF"
+  },
+  {
     "name": "Cambodia",
     "flag": "🇰🇭",
     "country_code": "KH",
@@ -271,13 +278,6 @@
     "country_code": "CA",
     "dial_code": "+1",
     "continent": "NA"
-  },
-  {
-    "name": "Cape Verde",
-    "flag": "🇨🇻",
-    "country_code": "CV",
-    "dial_code": "+238",
-    "continent": "AF"
   },
   {
     "name": "Caribbean Netherlands",
