@@ -49,6 +49,14 @@ Not listed separately: Northern Cyprus, Abkhazia, South Ossetia, Transnistria, S
 
 Hong Kong (`HK`), Macao (`MO`) and Taiwan (`TW`) are separate entries, each with its own dial code. `China` (`CN`) means mainland China only.
 
+### Chagos Archipelago
+
+The Chagos Archipelago (`IO`) is a British territory claimed by Mauritius. In 2025 the UK and Mauritius signed a treaty to transfer sovereignty to Mauritius, but it hasn't been ratified, so the archipelago is still listed as a separate entry. If the transfer goes ahead, this entry may be merged into Mauritius (`MU`).
+
+### Vatican City
+
+Vatican City's dial code, `+379`, is reserved but has never been used: Vatican phones use Italy's `+39`.
+
 ## Naming
 
 Names are the common English short names, not official long names:
