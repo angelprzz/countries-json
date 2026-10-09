@@ -4,14 +4,14 @@
 
 This is the file I use on my own projects, including [LetterMe](https://letterme.app) and [Sedcst](https://sedcst.com). The list has some political bias, so feel free to update it to match your own views. See [Coverage](#coverage) and [Naming](#naming) for which territories are and aren't included and how they're named.
 
-| Field          | Example   | Description                  |
-| -------------- | --------- | ---------------------------- |
-| `name`         | `"Spain"` | Common English name          |
+| Field          | Example    | Description                     |
+| -------------- | ---------- | ------------------------------- |
+| `name`         | `"Spain"`  | Common English name             |
 | `native_name`  | `"España"` | Name in the main local language |
-| `country_code` | `"ES"`    | ISO 3166-1 alpha-2 code      |
-| `flag`         | `"🇪🇸"`    | Flag emoji                   |
-| `dial_code`    | `"+34"`   | International dialing prefix |
-| `continent`    | `"EU"`    | Continent code (see below)   |
+| `country_code` | `"ES"`     | ISO 3166-1 alpha-2 code         |
+| `flag`         | `"🇪🇸"`     | Flag emoji                      |
+| `dial_code`    | `"+34"`    | International dialing prefix    |
+| `continent`    | `"EU"`     | Continent code (see below)      |
 
 ## Continent codes
 
@@ -53,10 +53,6 @@ Hong Kong (`HK`), Macao (`MO`) and Taiwan (`TW`) are separate entries, each with
 
 The Chagos Archipelago (`IO`) is a British territory claimed by Mauritius. In 2025 the UK and Mauritius signed a treaty to transfer sovereignty to Mauritius, but it hasn't been ratified, so the archipelago is still listed as a separate entry. If the transfer goes ahead, this entry may be merged into Mauritius (`MU`).
 
-### Vatican City
-
-Vatican City's dial code, `+379`, is reserved but has never been used: Vatican phones use Italy's `+39`.
-
 ## Naming
 
 Names are the common English short names, not official long names:
@@ -82,7 +78,9 @@ Some entries use a different name from their ISO name:
 
 ## Dial codes
 
-Places that share the `+1` dial code with the US and Canada have their area code added to `dial_code`, e.g. `+1684` for American Samoa and `+1876` for Jamaica. Places with more than one area code list only one: the Dominican Republic is `+1849` (it also uses 809 and 829), Puerto Rico is `+1939` (also 787) and Jamaica is `+1876` (also 658).
+- Places that share the `+1` dial code with the US and Canada have their area code added, e.g. `+1684` for American Samoa and `+1876` for Jamaica.
+- Places with more than one area code list only one: the Dominican Republic is `+1849` (it also uses 809 and 829), Puerto Rico is `+1939` (also 787) and Jamaica is `+1876` (also 658).
+- Vatican City's dial code, `+379`, is reserved but has never been used: Vatican phones use Italy's `+39`.
 
 ## License
 
